@@ -1,7 +1,7 @@
 
 # 📊 Dashboard de Vendas - Power BI
 
-![Dashboard Screenshot](./prints/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Lydson/PrimeiroPowerBIDashboard/refs/heads/main/dashboard.jpeg)
 
 ## 🚀 Sobre o Projeto
 
@@ -31,8 +31,9 @@ O objetivo deste dashboard é fornecer uma visão clara dos principais indicador
 
 ## 📷 Prints do Dashboard
 
-- ![Dashboard Principal](./prints/dashboard1.png)  
-- ![Análise Detalhada](./prints/dashboard2.png)  
+![Dashboard Principal](https://raw.githubusercontent.com/Lydson/PrimeiroPowerBIDashboard/refs/heads/main/dashboard.jpeg)
+![Análise Detalhada 1](https://raw.githubusercontent.com/Lydson/PrimeiroPowerBIDashboard/refs/heads/main/analise1.jpeg)
+![Análie Detalhada 2](https://raw.githubusercontent.com/Lydson/PrimeiroPowerBIDashboard/refs/heads/main/analise2.jpeg)
 
 ## 📑 Referência do Tutorial
 
