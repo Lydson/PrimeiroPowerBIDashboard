@@ -9,6 +9,8 @@ Este é o **primeiro dashboard que desenvolvi no Power BI**, criado seguindo o t
 
 Foi uma experiência incrível que me mostrou o quanto o Power BI é uma ferramenta poderosa para transformar dados em informações visuais, facilitando a análise e a tomada de decisões. Já tenho experiência com Excel e estive aprendendo SQL, mas este me deu uma boa visão de como posso integrar os meus outros conhecimentos.
 
+O arquivo XLSX com o banco de dados para realizar este projeto está no repositório também caso tenha interesse em tentar também.
+
 ## 🧠 O que Aprendi
 
 - Como importar dados para o Power BI  
